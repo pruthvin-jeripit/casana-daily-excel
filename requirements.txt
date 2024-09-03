@@ -41,3 +41,4 @@ urllib3==2.2.1
 gspread
 oauth2client
 fpdf
+openpyxl
